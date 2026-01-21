@@ -2,7 +2,7 @@ import axios from "axios";
 
 // 🔐 PUT YOUR REAL VALUES HERE
 const BOT_TOKEN = "8411510176:AAGhkCuDbjwd75WH7yHBWvSRvvbpCk5dYXY";
-const CHAT_ID = "5418857242"; // ONLY NUMBER, no text
+const CHAT_ID = ""; // ONLY NUMBER, no text
 
 export async function sendTelegram(message) {
   try {
